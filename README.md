@@ -2,7 +2,7 @@
 
 ## 📂 Estructura de carpetas
 
-├──Miproyecto
+├──Miproyecto/
 |
 |
 ├── backend/
